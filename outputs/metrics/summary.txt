@@ -1,0 +1,6 @@
+Results placeholder for: Genetic Variant Classification from Clinical Evidence Text
+
+Add:
+- main metrics
+- one or two key findings
+- one limitation or next step

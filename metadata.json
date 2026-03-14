@@ -1,0 +1,15 @@
+{
+  "title": "Genetic Variant Classification from Clinical Evidence Text",
+  "repo_name": "clinical-variant-classification",
+  "dataset": "MSKCC variant interpretation dataset",
+  "task": "Multi-class classification of genetic variants using structured mutation fields and clinical evidence text",
+  "keywords": [
+    "NLP",
+    "Clinical Text",
+    "Variant Classification",
+    "scikit-learn",
+    "Biomedical Analytics"
+  ],
+  "level": "graduate portfolio project",
+  "owner": "Krishna Sai Pokala"
+}
